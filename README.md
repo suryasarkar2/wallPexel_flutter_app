@@ -17,8 +17,10 @@ You can browse by category or search anything you want :)
 ## Get Sarted
 
 1) Clone the repository.
-2) Run "flutter pub get"
-3) Run "flutter run"
+2) Get the API key [here](https://www.pexels.com/api/) by signing in.
+3) Provide the api key in lib/data/data.dart
+4) Run "flutter pub get"
+5) Run "flutter run"
 
 
 ## Information
