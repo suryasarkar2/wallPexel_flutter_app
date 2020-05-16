@@ -1,10 +1,30 @@
 # wallpaperstore
 
-A new Flutter application.
+This is an app which displays beautiful wallpapers fetched using the Pexels API with beautiful smooth animations.
 
-## Getting Started
+### This project uses Flutter SDK.
 
-This project is a starting point for a Flutter application.
+
+## Screenshots
+<p float="center">
+  <img src="Screenshots/1.png" width="300" />
+  <img src="Screenshots/3.png" width="300" /> 
+  <img src="Screenshots/4.png" width="300" />
+</p>
+
+
+## Get Sarted
+
+1) Clone the repository.
+2) Run "flutter pub get"
+3) Run "flutter run"
+
+
+## Information
+
+The images are fecthed using the [Pexels API](https://www.pexels.com/api/).
+
+## More
 
 A few resources to get you started if this is your first Flutter project:
 
