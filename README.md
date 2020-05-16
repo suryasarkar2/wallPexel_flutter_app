@@ -1,6 +1,7 @@
 # wallpaperstore
 
 This is an app which displays beautiful wallpapers fetched using the Pexels API with beautiful smooth animations.
+You can browse by category or search anything you want :)
 
 ### This project uses Flutter SDK.
 
